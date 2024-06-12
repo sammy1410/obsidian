@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New file.md",
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d63691ecb35f7ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automated.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "New file.md",
+            "file": "Automated.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "New file.md",
+            "file": "Automated.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "New file.md"
+            "file": "Automated.md"
           }
         }
       }
@@ -144,9 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "805a8bd9e786c0e2",
+  "active": "d63691ecb35f7ef1",
   "lastOpenFiles": [
     "Untitled.md",
+    "Automated.md",
     "New file.md"
   ]
 }
